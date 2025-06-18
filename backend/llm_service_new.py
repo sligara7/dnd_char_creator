@@ -604,8 +604,8 @@ SETUP INSTRUCTIONS:
    pip install openai anthropic httpx python-dotenv
 
 2. Create .env file in your project root:
-   OPENAI_API_KEY=sk-your-key-here
-   ANTHROPIC_API_KEY=sk-ant-your-key-here
+   OPENAI_API_KEY=your-openai-api-key-here
+   ANTHROPIC_API_KEY=your-anthropic-api-key-here
 
 3. Usage examples:
 
